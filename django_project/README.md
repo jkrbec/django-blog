@@ -1,6 +1,6 @@
 # Django Blog
 
-![Django Blog](django-blog.png)
+![Django Blog]([django-blog.png](https://github.com/jkrbec/django-blog/blob/master/django-blog.png))
 
 A simple yet elegant blog application built with Django. This project showcases the use of Django's powerful features to create a fully functional blog with user authentication, post creation, updating, deletion, and user profiles.
 
